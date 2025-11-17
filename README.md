@@ -27,5 +27,7 @@ This project centralizes tracking of medical supplies, prevents over-dispensing,
   This file.
 
 - `requirements.txt`
-  Install using  ```bash pip install -r "requirements.txt"
+  Install using
+  ```bash
+  pip install -r "requirements.txt"
   
